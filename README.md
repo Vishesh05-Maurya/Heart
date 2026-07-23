@@ -1,11 +1,15 @@
 # ❤️ Heart Attack Risk Predictor
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit)](https://kvrhpbcoel2y8s5rfmak7b.streamlit.app/)
+
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Streamlit-1.60.0-FF4B4B.svg)](https://streamlit.io/)
 [![Machine Learning](https://img.shields.io/badge/Scikit--Learn-KNN%20Classifier-orange.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An interactive, Machine Learning-powered Web Application designed to predict the probability of a **Heart Attack Risk** (High 🚨 vs. Low ✅) based on key demographic, clinical, and electrocardiographic metrics.
+
+🌐 **Live Application**: [https://kvrhpbcoel2y8s5rfmak7b.streamlit.app/](https://kvrhpbcoel2y8s5rfmak7b.streamlit.app/)
 
 ---
 
