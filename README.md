@@ -65,7 +65,7 @@ Heart_prediction/
 ├── KNN_Heart.pkl             # Trained K-Nearest Neighbors Classifier model
 ├── KNN_Heart_Scaler.pkl      # StandardScaler object for feature normalization
 ├── KNN_Heart_Columns.pkl     # Feature column schema for alignment
-├── requirement.txt           # Python dependencies list
+├── requirements.txt          # Python dependencies list
 └── README.md                 # Project documentation
 ```
 
@@ -95,7 +95,7 @@ cd Heart
 
 ### 3. Install Dependencies
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Run the Streamlit Application
